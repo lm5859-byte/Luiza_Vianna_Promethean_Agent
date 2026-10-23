@@ -1,0 +1,60 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Chapter 11 barrier dissolution and civilization-scale significance",
+    "version": "1.0-student"
+  },
+  "analytical_question": "Does generative AI dissolve a categorical human constraint across multiple tiers of life, and what restricted uses are justified for a fast-follower consulting firm serving regulated clients?",
+  "general_et_finding": "Prospective classification: Potential Promethean, conditional and not confirmed. The system boundary is deployed generative AI services combining trained models, interfaces, computing infrastructure and human workflows, rather than a standalone model component. Barrier statement: Before generative AI, producing adaptable natural-language explanations, drafts and analytical assistance at scale required substantial human cognitive labor; that constraint often defined the practical availability of personalized knowledge work. However, earlier search, templates, software and human experts already provided partial substitutes, so the barrier was not categorical in every context. Suppression test: Removing generative AI tomorrow would disrupt AI-dependent workflows and reduce speed and accessibility, but most knowledge production could continue through people and conventional tools; demonstrated civilization-wide irreversible dependence is absent. Cross-tier reach is plausible in economic production and cognitive/social access, but verified categorical dissolution across both tiers is not established. Six criteria: (a) order-of-magnitude change: support—some tasks may become substantially faster; counterevidence—no verified comparable 10x end-to-end baseline here; verdict not yet verifiable, low confidence. (b) widespread impact: support—applications span many sectors; counterevidence—adoption is not proof of durable transformation; verdict mixed, moderate confidence. (c) paradigm shift: support—interactive generation changes assumptions about producing content and software; counterevidence—human oversight remains necessary; verdict mixed, moderate confidence. (d) catalytic innovation: support—new applications and workflows are built around generative models; counterevidence—dependence and enduring value have not been systematically demonstrated here; verdict mixed, low-to-moderate confidence. (e) democratization: support—conversational interfaces lower some expertise and production barriers; counterevidence—cost, language, connectivity, quality and accessibility exclusions persist; verdict mixed, moderate confidence. (f) irreversibility: support—some organizations integrate AI into workflows; counterevidence—no established civilization-scale infrastructure dependence or inability to substitute; verdict unsupported as a present claim, moderate confidence. Strongest higher-classification case: adaptable machine-generated cognitive assistance could eventually reorganize economic and social systems. Strongest opposing case: it may remain a powerful, replaceable productivity technology without irreversible cross-tier barrier dissolution. The Potential Promethean label is a prospective hypothesis, not a confirmed result; absent evidence that the initial barrier gate is satisfied, the demonstrated classification is at most Breakthrough. Neither hype nor organizational enthusiasm can upgrade the general classification.",
+  "application_finding": "For research, analysis and client deliverables in regulated engagements, generative AI may accelerate preliminary literature scans, outline creation, summarization of approved non-sensitive materials, drafting and code assistance. It does not independently guarantee source fidelity, numerical correctness, legal or clinical validity, or an auditable chain of reasoning. Human experts must verify primary sources, calculations, context and final conclusions. Sensitive-data access, restricted tooling and mandatory review sharply limit autonomous use. Faster drafting is not evidence of a new categorical barrier being dissolved or of civilizational irreversibility. If withdrawn, consultants could return to approved databases, conventional analytics and manual review, with likely productivity losses but continued service delivery.",
+  "organization_specific_finding": "A management consulting firm serving healthcare and financial-services clients, with a moderate fast-follower posture, should treat generative AI as a controlled assistance capability rather than an autonomous analyst. Client confidentiality, contractual restrictions, data provenance, audit trails, professional accountability and high-consequence mistakes dominate the adoption decision. A six-to-twelve-month restricted pilot is more defensible than broad deployment: use approved enterprise environments and non-client-sensitive or explicitly authorized data, document source checks, require qualified human sign-off and preserve a non-AI fallback. General technology significance remains unchanged by these stricter organizational constraints.",
+  "evidence": [
+    {
+      "claim": "Chapter 11's framework requires barrier dissolution, suppression testing, cross-tier significance and assessment of six criteria rather than inferring Promethean status from popularity.",
+      "source_or_reference": "Fortino, Identifying Promethean Technologies, Chapter 11 (course draft), as specified in the supplied specialist instructions",
+      "date_or_recency": "2026 draft; framework supplied in prompt",
+      "evidence_type": "course conceptual framework",
+      "notes": "A proposed analytical framework, not independently validated consensus."
+    },
+    {
+      "claim": "This case has mandatory expert review, restricted datasets, confidentiality obligations and limited approved tools.",
+      "source_or_reference": "Supplied Contrast 2 case context",
+      "date_or_recency": "Case supplied October 2026",
+      "evidence_type": "case assumption",
+      "notes": "Describes the hypothetical organization; not independent evidence of realized pilot outcomes."
+    },
+    {
+      "claim": "Generative AI could assist drafting and research while introducing risks of unsupported assertions and unverifiable outputs.",
+      "source_or_reference": "Analytical inference from generative model capabilities and known failure modes; no independently retrieved study in this execution",
+      "date_or_recency": "Current verification unavailable in this run",
+      "evidence_type": "inference; unverified externally",
+      "notes": "Do not interpret as a measured productivity gain, error rate or regulatory finding."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Prior search engines, automation and professional services undermine the claim that all relevant knowledge work was categorically impossible before generative AI.",
+    "No verified task-matched 10x productivity or access improvement, accounting for expert validation, is provided.",
+    "Cross-sector use and investment do not establish irreversible societal dependence.",
+    "High-consequence hallucinations, omission, misleading citations and confidentiality risks may offset speed gains.",
+    "No actual client pilot results, contractual permissions or approved-system security assessments are available.",
+    "No current independent external source retrieval was performed; evidence claims must not be treated as a contemporary literature review."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence that confirmed Promethean status is not established; low-to-moderate confidence in Potential Promethean as a prospective hypothesis; moderate confidence that tightly bounded assistance is more appropriate than autonomous delivery for this case. The categorical nature of the barrier, demonstrated multi-tier dissolution, validated comparative gains and future irreversibility remain unresolved. The same general classification should be retained in the primary and other contrast cases.",
+  "value_opportunity_implication": "Potential value lies in quicker first-pass research synthesis, structured drafting, reusable analytical assistance and faster iteration, provided the full cost of review, security and rework is included. Pilot value should be measured against existing approved workflows, not vendor demonstrations.",
+  "risk_governance_implication": "Prohibit unauthorized entry of confidential client or personal information into unapproved systems. Apply engagement-specific authorization, least-privilege access, logging, retention controls, source traceability, reproducible calculations, mandatory specialist review and clear accountability for client-facing claims. Escalate any use that could influence clinical, financial, legal or regulatory decisions; do not allow model output to substitute for qualified professional judgment.",
+  "recommendation_management_implication": "Conduct a reversible six-to-twelve-month pilot limited to low-consequence, permitted tasks such as organizing public-source research and drafting internal outlines. Define approval gates with compliance and client owners, evaluate factual accuracy and omissions using blinded expert review, track total cycle time including corrections, test privacy controls, and require documented human approval before external delivery. Pause or narrow the pilot if confidentiality, source verification or error thresholds fail. Reassess over three to five years; do not authorize broad autonomous use or infer adoption urgency from a Potential Promethean label.",
+  "change_monitoring_triggers": [
+    "Repeatable, independently evaluated improvements in end-to-end task quality, speed and cost against human-plus-conventional-tool baselines.",
+    "Evidence of durable cross-tier barrier dissolution and actual dependence that survives substitution testing.",
+    "Independent audits of hallucination, omission, provenance and reproducibility in regulated-industry workflows.",
+    "Changes to applicable client contracts, privacy obligations, professional standards and approved tooling.",
+    "Pilot incidents, audit failures, reviewer workload or measured error rates exceeding predetermined limits.",
+    "Evidence that accessible substitutes or alternative architectures weaken the proposed barrier-dissolution claim."
+  ],
+  "abstention_or_more_information_needed": [
+    "Abstain from a confirmed Promethean classification because retrospective multi-tier dissolution and irreversibility are not demonstrated.",
+    "Obtain independent dated studies, task-matched performance baselines and evidence about long-term cross-sector dependence before strengthening the prospective classification.",
+    "Obtain client permissions, approved-vendor security documentation, data classifications, regulatory review and validated pilot acceptance thresholds before allowing sensitive information or consequential deliverables into scope.",
+    "Without these observations, do not claim that a restricted pilot is proven safe, profitable or appropriate for every engagement."
+  ]
+}

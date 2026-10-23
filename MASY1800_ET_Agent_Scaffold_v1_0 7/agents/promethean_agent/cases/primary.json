@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI",
+  "intended_application": "Automating research, analysis, and client deliverables",
+  "organization": "Management consulting firm",
+  "industry_sector": "Management consulting / professional services",
+  "business_need": "Improve research efficiency, analytical productivity, and client deliverable preparation without compromising professional quality",
+  "users_stakeholders": "Consultants, research teams, engagement managers, firm leadership, clients, risk and compliance staff",
+  "adoption_posture": "Moderate / fast follower; evidence-led staged adoption",
+  "capabilities_constraints": "Existing knowledge-management tools and skilled consultants; limited AI integration maturity; confidentiality controls, review capacity, and budget constraints",
+  "risk_consequence_context": "Potential fabricated claims, poor analysis, confidential data exposure, IP issues, client trust, and human accountability",
+  "management_question": "How much should Generative AI\u2019s broader technological significance influence a staged decision to use it for consulting research, analysis, and deliverables?",
+  "time_horizon": "Near-term pilot over 6\u201312 months; reassess broader significance over 3\u20135 years",
+  "additional_context": "Evaluate general technology significance independently from this firm\u2019s adoption decision. No adoption, impact, or accuracy metrics have been supplied; do not invent them."
+}

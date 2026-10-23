@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI",
+  "intended_application": "Automating research, analysis, and client deliverables for sensitive regulated-industry engagements",
+  "organization": "Management consulting firm serving healthcare and financial-services clients",
+  "industry_sector": "Management consulting / professional services",
+  "business_need": "Improve research efficiency, analytical productivity, and client deliverable preparation without compromising professional quality",
+  "users_stakeholders": "Consultants, research teams, engagement managers, firm leadership, clients, risk and compliance staff",
+  "adoption_posture": "Moderate / fast follower; evidence-led staged adoption",
+  "capabilities_constraints": "Restricted client datasets, strict contractual confidentiality, limited approved tools, audit trails and mandatory expert review",
+  "risk_consequence_context": "High-consequence errors in regulated-client analysis, disclosure of sensitive information, compliance and reputational harms",
+  "management_question": "What restricted or pilot-only uses of generative AI are justified given stringent confidentiality and validation requirements?",
+  "time_horizon": "Near-term pilot over 6\u201312 months; reassess broader significance over 3\u20135 years",
+  "additional_context": "Hold the underlying technology and general significance criteria constant; only application risk and organizational constraints change."
+}

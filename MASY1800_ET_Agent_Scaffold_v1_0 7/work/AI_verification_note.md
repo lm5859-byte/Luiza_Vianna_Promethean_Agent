@@ -1,0 +1,3 @@
+# AI / verification note (draft)
+
+AI helped translate Chapter 11 into explicit classification gates, build three contrasting consulting scenarios, and prepare schema-valid structured analyses. I checked the framework against the uploaded Chapter 11 reading and the required output structure against the original scaffold. The JSON responses were validated with the scaffold’s `tools/validate_response.py`, and the frozen core passed its integrity checker. No external performance or deployment statistics were independently verified, so I avoided numerical claims and marked unverified effects as hypotheses. The three saved outputs are analyst-authored evaluations, not independent executions of the saved prompt packets.
